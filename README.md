@@ -1,1 +1,2 @@
 # odin-recipes
+Project that will consist of main index page, will show some ordered/unordered lists and have links to other pages/websites. Will not show much but build on HTML. Will be revisited in near future to style with CSS.
